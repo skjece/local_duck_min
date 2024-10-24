@@ -9,5 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {}
+  "dependencies": {
+    "duckdb": "^1.1.1"
+  }
 }

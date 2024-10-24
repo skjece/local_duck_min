@@ -1,5 +1,5 @@
 # Use an official Node.js runtime as a parent image
-FROM node:bullseye
+FROM node:18-bullseye
 
 # Install bash (if not included) and other required packages
 RUN apt-get update && apt-get install -y bash
